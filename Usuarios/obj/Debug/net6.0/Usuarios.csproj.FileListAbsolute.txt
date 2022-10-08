@@ -1,0 +1,12 @@
+E:\FIML\FIML\Usuarios\bin\Debug\net6.0\Usuarios.deps.json
+E:\FIML\FIML\Usuarios\bin\Debug\net6.0\Usuarios.dll
+E:\FIML\FIML\Usuarios\bin\Debug\net6.0\Usuarios.pdb
+E:\FIML\FIML\Usuarios\obj\Debug\net6.0\Usuarios.csproj.AssemblyReference.cache
+E:\FIML\FIML\Usuarios\obj\Debug\net6.0\Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+E:\FIML\FIML\Usuarios\obj\Debug\net6.0\Usuarios.AssemblyInfoInputs.cache
+E:\FIML\FIML\Usuarios\obj\Debug\net6.0\Usuarios.AssemblyInfo.cs
+E:\FIML\FIML\Usuarios\obj\Debug\net6.0\Usuarios.csproj.CoreCompileInputs.cache
+E:\FIML\FIML\Usuarios\obj\Debug\net6.0\Usuarios.dll
+E:\FIML\FIML\Usuarios\obj\Debug\net6.0\refint\Usuarios.dll
+E:\FIML\FIML\Usuarios\obj\Debug\net6.0\Usuarios.pdb
+E:\FIML\FIML\Usuarios\obj\Debug\net6.0\ref\Usuarios.dll

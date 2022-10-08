@@ -1,0 +1,12 @@
+E:\FIML\FIML\UsuariosContatoDatabaseSettings\bin\Debug\net6.0\UsuariosDatabaseSettings.deps.json
+E:\FIML\FIML\UsuariosContatoDatabaseSettings\bin\Debug\net6.0\UsuariosDatabaseSettings.dll
+E:\FIML\FIML\UsuariosContatoDatabaseSettings\bin\Debug\net6.0\UsuariosDatabaseSettings.pdb
+E:\FIML\FIML\UsuariosContatoDatabaseSettings\obj\Debug\net6.0\UsuariosDatabaseSettings.csproj.AssemblyReference.cache
+E:\FIML\FIML\UsuariosContatoDatabaseSettings\obj\Debug\net6.0\UsuariosDatabaseSettings.GeneratedMSBuildEditorConfig.editorconfig
+E:\FIML\FIML\UsuariosContatoDatabaseSettings\obj\Debug\net6.0\UsuariosDatabaseSettings.AssemblyInfoInputs.cache
+E:\FIML\FIML\UsuariosContatoDatabaseSettings\obj\Debug\net6.0\UsuariosDatabaseSettings.AssemblyInfo.cs
+E:\FIML\FIML\UsuariosContatoDatabaseSettings\obj\Debug\net6.0\UsuariosDatabaseSettings.csproj.CoreCompileInputs.cache
+E:\FIML\FIML\UsuariosContatoDatabaseSettings\obj\Debug\net6.0\UsuariosDatabaseSettings.dll
+E:\FIML\FIML\UsuariosContatoDatabaseSettings\obj\Debug\net6.0\refint\UsuariosDatabaseSettings.dll
+E:\FIML\FIML\UsuariosContatoDatabaseSettings\obj\Debug\net6.0\UsuariosDatabaseSettings.pdb
+E:\FIML\FIML\UsuariosContatoDatabaseSettings\obj\Debug\net6.0\ref\UsuariosDatabaseSettings.dll

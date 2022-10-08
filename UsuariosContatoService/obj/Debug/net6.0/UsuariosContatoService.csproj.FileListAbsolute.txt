@@ -1,0 +1,17 @@
+E:\FIML\FIML\UsuariosContatoService\bin\Debug\net6.0\UsuariosContatoService.deps.json
+E:\FIML\FIML\UsuariosContatoService\bin\Debug\net6.0\UsuariosContatoService.dll
+E:\FIML\FIML\UsuariosContatoService\bin\Debug\net6.0\UsuariosContatoService.pdb
+E:\FIML\FIML\UsuariosContatoService\bin\Debug\net6.0\Usuarios.dll
+E:\FIML\FIML\UsuariosContatoService\bin\Debug\net6.0\UsuariosDatabaseSettings.dll
+E:\FIML\FIML\UsuariosContatoService\bin\Debug\net6.0\UsuariosDatabaseSettings.pdb
+E:\FIML\FIML\UsuariosContatoService\bin\Debug\net6.0\Usuarios.pdb
+E:\FIML\FIML\UsuariosContatoService\obj\Debug\net6.0\UsuariosContatoService.csproj.AssemblyReference.cache
+E:\FIML\FIML\UsuariosContatoService\obj\Debug\net6.0\UsuariosContatoService.GeneratedMSBuildEditorConfig.editorconfig
+E:\FIML\FIML\UsuariosContatoService\obj\Debug\net6.0\UsuariosContatoService.AssemblyInfoInputs.cache
+E:\FIML\FIML\UsuariosContatoService\obj\Debug\net6.0\UsuariosContatoService.AssemblyInfo.cs
+E:\FIML\FIML\UsuariosContatoService\obj\Debug\net6.0\UsuariosContatoService.csproj.CoreCompileInputs.cache
+E:\FIML\FIML\UsuariosContatoService\obj\Debug\net6.0\UsuariosContatoService.csproj.CopyComplete
+E:\FIML\FIML\UsuariosContatoService\obj\Debug\net6.0\UsuariosContatoService.dll
+E:\FIML\FIML\UsuariosContatoService\obj\Debug\net6.0\refint\UsuariosContatoService.dll
+E:\FIML\FIML\UsuariosContatoService\obj\Debug\net6.0\UsuariosContatoService.pdb
+E:\FIML\FIML\UsuariosContatoService\obj\Debug\net6.0\ref\UsuariosContatoService.dll
